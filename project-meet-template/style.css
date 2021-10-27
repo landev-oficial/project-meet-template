@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    position: relative;
+    width: 414px;
+    height: 896px;
+    background: #013243;
+
+}
+
+.logo {
+    position: absolute;
+    width: 114px;
+    height: 29px;
+    left: 20px;
+    top: 20px;
+    font-family: Sen;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    color: #32F5C8;
+
+}
+
+.img-1 {
+
+    width: 60px;
+    height: 60px;
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 243px;
+    position: absolute;
+}
+
+.img-2 {
+    position: absolute;
+    width: 86, 5px;
+    height: 86, 5px;
+    margin-top: 96px;
+    margin-left: 230px;
+    margin-right: 7px;
+}
+
+.first-paragraph {
+
+    font-family: Sen;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 55px;
+    line-height: 66px;
+    color: #32F5C8;
+    text-align: left;
+    position: absolute;
+    margin: 212px 20px 0 20px;
+
+
+}
+
+.second-paragraph {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 34px;
+    color: #A9BDC6;
+    margin: 378px 20px 0 20px;
+    position: absolute;
+
+}
+
+.button {
+    position: absolute;
+    width: 301px;
+    height: 77px;
+    left: 20px;
+    top: 514px;
+    background: #32F5C8;
+    border-radius: 5px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    color: #013243;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #00FFFF;
+}
+
+.img-3 {
+    position: absolute;
+    width: 190px;
+    height: 190px;
+    margin-top: 577px;
+    margin-left: 250px;
+}
+
+.img-4 {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    margin-top: 810px;
+    margin-left: 20px;
+}
+
+.third-paragraph {
+    position: absolute;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    color: #A9BDC6;
+    margin-top: 820px;
+    margin-left: 80px;
+
+}
