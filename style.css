@@ -6,11 +6,10 @@
 
 .container {
     position: relative;
-    width: 414px;
     height: 896px;
     background: #013243;
-    min-width: 300px;
-    max-width: 1200px;
+    min-width: 200px;
+    max-width: 800px;
     margin: auto;
 
 }
